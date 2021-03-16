@@ -1,2 +1,7 @@
-# Repositório
-Repositório criado para aplicar os conceitos de Node JS e React JS em uma aplicação rodando a API no backend, e sendo consumida no frontend.
+Repositorio efetuado para efeitos de teste.
+
+Testes para configuração do babel e webpack manuais.
+
+Back-end se comunicando com front-end através do "axios".
+
+
